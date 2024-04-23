@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="welcome_title">Welcome to Jack Your Tamagotchi App</string>
+    <string name="start_button">Get Started</string>
+
+    <string name="feed_button">Feed</string>
+    <string name="clean_button">Clean</string>
+    <string name="play_button">Play</string>
+
+    <string name="hunger_txt">Hunger</string>
+    <string name="clean_txt">Clean</string>
+    <string name="happy_txt">Happy</string>
+</resources>
