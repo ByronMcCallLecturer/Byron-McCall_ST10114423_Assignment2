@@ -1,2 +1,13 @@
 # Byron-McCall_ST10114423_Assignment2
 Assignment 2
+
+--------------------------------------------
+step 1: oopen android studio
+step2:...
+step 3....
+
+-------------_-----------------------------
+this is what the app does.....
+
+------------------------------------------
+ADDITIONAL LINKS IF NECESSARY.......
